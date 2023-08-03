@@ -1,0 +1,22 @@
+h2 {
+    border: 5px dotted red;
+    margin: 15px;
+}
+a {
+    cursor: progress;
+}
+a:link {
+    color: fuchsia;
+    background-color: transparent; 
+}
+
+a:visited {
+    color: chartreuse;
+    background-color: transparent;
+}
+
+a:active {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+}
